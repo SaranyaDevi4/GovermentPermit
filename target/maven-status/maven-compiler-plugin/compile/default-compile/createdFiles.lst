@@ -1,0 +1,9 @@
+com\solar\village\model\PermitTypeEnum.class
+com\solar\village\model\PermitStatusEnum.class
+com\solar\village\repository\StructuralPermitRepo.class
+com\solar\village\model\PermitRequest.class
+com\solar\village\GovermentPermitApp.class
+com\solar\village\service\PermitService.class
+com\solar\village\controller\RestApiController.class
+com\solar\village\repository\ElectricalPermitRepo.class
+com\solar\village\route\TimerRoute.class
